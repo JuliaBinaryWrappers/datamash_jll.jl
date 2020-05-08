@@ -1,0 +1,97 @@
+[[datamash]]
+arch = "i686"
+git-tree-sha1 = "a462db7fdc9ced0de24c0a33c494a14fe41df605"
+libc = "musl"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "15e394d32c2850c437750998de657b4b59db2619eb302c510a832f0f676ff75d"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.i686-linux-musl.tar.gz"
+[[datamash]]
+arch = "aarch64"
+git-tree-sha1 = "22032c7fb3462c983907e2fa9385713ed239a109"
+libc = "musl"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "61b246b1e7a520643ee2c95326e9995b827c44e27c4beb38467014061ba54679"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.aarch64-linux-musl.tar.gz"
+[[datamash]]
+arch = "armv7l"
+git-tree-sha1 = "7cd884b4236b7d5986b988af91a197898b85a83b"
+libc = "glibc"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "a46fd8d58cb4dc2a751a2e40c39d853e932e70cab57b533cf54ad1c97d9326a2"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[datamash]]
+arch = "armv7l"
+git-tree-sha1 = "54ad3272a4354bae7dc67985c2bc6fbaf46a6f04"
+libc = "musl"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "6880951b59d0d65f0c2fe420d9c8f94592045a638cf5a9741fb3b35ebc9b3b73"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.armv7l-linux-musleabihf.tar.gz"
+[[datamash]]
+arch = "i686"
+git-tree-sha1 = "9aaa8b99ea044045d34b83926ed253d32ccd3348"
+libc = "glibc"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "cc6d569bb67e571c00b6544ec05fdcf570589b4a6ab439ed1b12d5e222408bf1"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.i686-linux-gnu.tar.gz"
+[[datamash]]
+arch = "x86_64"
+git-tree-sha1 = "666d18a06f90f5d4f6c685167641a21c83c11adf"
+libc = "glibc"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "9c48df4c666abfc5b71509b0c45896ca9f54e2400545efdba1b7dd2e32794350"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.x86_64-linux-gnu.tar.gz"
+[[datamash]]
+arch = "powerpc64le"
+git-tree-sha1 = "9e03352cc3225ac273fefe38ad20a0fea385cda6"
+libc = "glibc"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "2902969e1f81938cdab251c64b193fd746d2f4f42ee87fcf7026ca0a5aca6548"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.powerpc64le-linux-gnu.tar.gz"
+[[datamash]]
+arch = "x86_64"
+git-tree-sha1 = "2a3b6263c82f2abf17f477f638518d89500c86a8"
+os = "macos"
+
+    [[datamash.download]]
+    sha256 = "37c5cc0784af13d8daf7f8e53139f83e4b8ef1293693ad81ddc5a606926d4a82"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.x86_64-apple-darwin14.tar.gz"
+[[datamash]]
+arch = "aarch64"
+git-tree-sha1 = "c8196993b5396f75801ca69820ec2e07554b26b2"
+libc = "glibc"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "e48b2043a7f078eae082dec168c71584008ad97a00478b0b79e9d650e7766b9a"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.aarch64-linux-gnu.tar.gz"
+[[datamash]]
+arch = "x86_64"
+git-tree-sha1 = "51ccb7f04fdd29cd8f198fbaffb7e8c297c5c749"
+os = "freebsd"
+
+    [[datamash.download]]
+    sha256 = "26ff3afc725e5d93e8d019961372420981674fae85f8abb28f905d645b583c60"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[datamash]]
+arch = "x86_64"
+git-tree-sha1 = "f2967114199fc683ced6253b12cef6ae8c66dda0"
+libc = "musl"
+os = "linux"
+
+    [[datamash.download]]
+    sha256 = "ea93398e381dd33dac95df6352d80d0c23900e78a33f480616d5401fa00ebdad"
+    url = "https://github.com/JuliaBinaryWrappers/datamash_jll.jl/releases/download/datamash-v1.7.0+0/datamash.v1.7.0.x86_64-linux-musl.tar.gz"
